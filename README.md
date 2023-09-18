@@ -15,4 +15,8 @@ Os vetores são geralmente representados como listas (ou arrays). Vetores são u
 São vetores dentro de vetores (estrutura bidimensional), como listas de listas, onde cada lista interna representa uma linha da matriz. Isso permite que você trabalhe com matrizes de forma flexível e intuitiva.
 
 ## Funções
-Funções são blocos de código que realizam uma tarefa específica e podem ser reutilizados em diferentes partes de um programa. As funções permitem organizar e modularizar o código, tornando-o mais legível e fácil de manter.
+Funções são blocos de código que realizam uma tarefa específica e podem ser reutilizados em diferentes partes de um programa. As funções permitem organizar e modularizar o código, tornando-o mais legível e fácil de manter. As listas de funções estão divididas em:
+- Sem retorno e sem parâmetro;
+- Sem retorno e com parâmetro;
+- Com retorno e sem parâmetro;
+- Com retorno e com parâmetro.
