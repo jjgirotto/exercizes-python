@@ -20,3 +20,9 @@ Funções são blocos de código que realizam uma tarefa específica e podem ser
 - Sem retorno e com parâmetro;
 - Com retorno e sem parâmetro;
 - Com retorno e com parâmetro.
+
+## Estrutura de classes
+A estrutura de classes em Python é fundamental para a programação orientada a objetos (POO), que é um paradigma de programação amplamente utilizado. As classes servem para criar objetos, que são instâncias da classe, e organizam o código de uma maneira que promove a reutilização, a modularidade e a manutenção do código.
+
+## Arquivos
+Em Python, os arquivos desempenham um papel essencial na leitura e gravação de informações em disco. Foram utilizados arquivos com extensão texto (.txt) e funcionalidades de leitura e escrita.
