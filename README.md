@@ -26,3 +26,6 @@ A estrutura de classes em Python é fundamental para a programação orientada a
 
 ## Arquivos
 Em Python, os arquivos desempenham um papel essencial na leitura e gravação de informações em disco. Foram utilizados arquivos com extensão texto (.txt) e funcionalidades de leitura e escrita.
+
+## Pandas
+O Pandas é uma biblioteca de análise de dados em Python que oferece estruturas de dados flexíveis e eficientes, como o DataFrame, facilitando a manipulação e análise de conjuntos de dados tabulares de forma intuitiva e poderosa. Também foram utilizadas as bibliotecas MatPlotLib e Ploty Express para criação de gráficos.
